@@ -7,6 +7,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        nunito: ['"Nunito"', "sans-serif"],
+        poppins: ['Poppins', 'sans-serif'],
+        oswald: ['Oswald', 'sans-serif'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
