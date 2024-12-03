@@ -37,7 +37,7 @@ const Navbar = () => {
 
             <button className='hidden md:block border border-sky-400 px-4 py-2 text-white hover:ring-2 rounded ring-sky-600 relative overflow-hidden group hover:bg-sky-400 transition-all duration-300'>
                 Contact Us
-                <div className='w-8 h-8 bg-sky-400 absolute bottom-0 right-0 transform translate-x-[50%] translate-y-[50%] rotate-45 hover:scale-125 transition-all duration-100 '></div>
+                <div className='w-8 h-8 bg-sky-400 absolute bottom-0 right-0 transform translate-x-[70%] translate-y-[50%] rotate-45 hover:scale-125 transition-all duration-100 '></div>
 
             </button>
 

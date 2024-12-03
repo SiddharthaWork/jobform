@@ -69,7 +69,7 @@ const Form = () => {
                             Skills Requirements
                         </h1>
 
-                        <div className='w-full h-fit border border-dashed border-black '>
+                        <div className='w-full h-fit border custom-dashed-border  '>
                             <div className=' w-[34rem] h-full grid md:grid-cols-3 grid-cols-1 gap-2 px-4 py-4  '>
                                 <button className='flex gap-2 bg-[#BFE5F8] font-nunito text-black text-sm border-2 border-[#1181B8] rounded-full w-fit h-10 items-center justify-center px-4 py-2'>
                                     Manual Testing
