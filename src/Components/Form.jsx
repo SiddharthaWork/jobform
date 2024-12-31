@@ -65,7 +65,7 @@ const Form = () => {
                         </label>
 
                         {/* Here is some changes again to work here is some changes again  */}
-                        <h1 className='text-2xl font-poppins '>
+                        <h1 className='text-3xl font-poppins '>
                             Skills Requirements
                         </h1>
                        {/* Here is somer more changes  */}
